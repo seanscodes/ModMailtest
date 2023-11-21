@@ -153,4 +153,4 @@ client.on('message', async message => {
 })
  
 
-client.login("MTEyOTUwNzI0NDc5NTUwNjc4OA.Gj9I4j._2hptdmf64Y8ZyqBsMMJ1LdOHsipgTzB4dBIxg"); //Add the token to your bot user here
+client.login("MTEzMDkxMzEyODMwMTk5Mzk5NA.GmyB_M.a_HLgj9hc9n-DSgr_d5DeMV8ITnYXrdcwE_pE4"); //Add the token to your bot user here
