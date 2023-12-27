@@ -153,6 +153,6 @@ client.on('message', async message => {
 })
  
 
-client.login("62v9Meojzihf1jGtHXkwN-J1wJY6_XSm"); //Add the token to your bot user here
+client.login("MTE4ODI5MTc3NjMwNjQ5NTU1OA.GJ2-r8.H64IziaKh2ze9CAlAcarcQq5KRJLrz84ls2bZce"); //Add the token to your bot user here
 
 62v9Meojzihf1jGtHXkwN-J1wJY6_XSm
